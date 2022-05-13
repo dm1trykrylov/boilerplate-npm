@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Dmitry Krylov",
+	"description": "A study project",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
